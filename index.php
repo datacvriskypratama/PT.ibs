@@ -15,8 +15,12 @@
 <br />
 <a href="https://youtube.com/channel/UCkcWIClWldDnmefW5CUxHIg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtsAmDCEw7ChtoiezWgADmapEA8k2CUqqlw&usqp=CAU" alt="ibs profik" / width="15%"></a>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9849417033161051"
-     crossorigin="anonymous"></script>
+<table border="1">
+<tr>
+<th><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9849417033161051"
+     crossorigin="anonymous"></script></th>
+</tr>
+</table>
      
 </body>
 </html>
